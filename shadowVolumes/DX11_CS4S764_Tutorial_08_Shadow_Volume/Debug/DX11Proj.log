@@ -1,0 +1,161 @@
+﻿E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\basic_cloth_ps.hlsl(134,20-95): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\basic_cloth_ps.hlsl(142,14-56): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\basic_cloth_ps.hlsl(145,14-53): warning X3206: 'dot': implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\basic_cloth_ps.hlsl(168,34-64): warning X3206: 'pointLight': implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_cloth_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_cloth_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_colour_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_colour_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\basic_lighting_vs.hlsl(35,23-54): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_lighting_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_shadow_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_shadow_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_texture_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\basic_texture_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\cloth_update_forces_gs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\cloth_update_springs_gs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\cloth_update_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\convolve_u_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\convolve_v_ps.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\copy_depth_ps.hlsl(33,20-115): warning X3206: 'Load': implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\copy_depth_ps.hlsl(28,25-60): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\copy_depth_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\copy_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\emissive_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\flare_ps.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\flare_vs.hlsl(51,12-60): warning X3206: 'Load': implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\flare_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\grass_ps.hlsl(89,18-68): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\grass_ps.hlsl(113,22-86): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\grass_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\grass_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_ps.hlsl(138,13-44): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_ps.hlsl(138,13-57): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_ps.hlsl(143,18-80): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_ps.hlsl(143,18-93): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_ps.hlsl(148,29-43): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\per_pixel_lighting_ps.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\per_pixel_lighting_vs.hlsl(67,2-68): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\per_pixel_lighting_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\reflection_map_ps.hlsl(94,23-50): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\reflection_map_ps.hlsl(102,17-75): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\reflection_map_ps.hlsl(110,28-42): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\reflection_map_ps.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\reflection_map_vs.hlsl(61,23-54): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\reflection_map_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\screen_quad_vs.hlsl(27,2-50): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\screen_quad_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\skinning_vs.hlsl(99,12): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\skinning_vs.hlsl(112,12): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\skinning_vs.hlsl(128,2-57): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\skinning_vs.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\sky_box_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\sky_box_vs.cso
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\tree_ps.hlsl(81,18-49): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\tree_ps.hlsl(89,12-73): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\tree_ps.hlsl(93,28-42): warning X3206: implicit truncation of vector type
+E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\hlsl\tree_ps.hlsl(96,12-61): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\tree_ps.cso
+  compilation object save succeeded; see E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Shaders\cso\tree_vs.cso
+  stdafx.cpp
+  Utils.cpp
+  Triangle.cpp
+  Texture.cpp
+  Terrain.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(81): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(82): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(89): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(91): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(92): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\terrain.cpp(93): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Material.cpp
+  main.cpp
+  GUMemory.cpp
+  CGDClock.cpp
+  System.cpp
+  SkinnedModel.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(276): warning C4018: '>=' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(278): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(280): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(355): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(362): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(378): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(394): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(416): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(438): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\skinnedmodel.cpp(475): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  ShadowVolume.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\shadowvolume.cpp(24): warning C4101: 'hr' : unreferenced local variable
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\shadowvolume.cpp(279): warning C4018: '<' : signed/unsigned mismatch
+  Scene.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(121): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(195): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(204): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(205): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(206): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(213): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(251): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(266): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(270): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(304): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(317): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(318): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(391): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(410): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(411): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(575): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\scene.cpp(626): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  Quad.cpp
+  Ocean.cpp
+  Model.cpp
+  Grid.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(35): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(36): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(68): warning C4018: '<' : signed/unsigned mismatch
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+  Flare.cpp
+  FirstPersonCamera.cpp
+  CGDConsole.cpp
+  Generating Code...
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\grid.cpp(116): warning C4715: 'Grid::init' : not all control paths return a value
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\triangle.cpp(78): warning C4715: 'Triangle::init' : not all control paths return a value
+  Compiling...
+  Effect.cpp
+  Camera.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\camera.cpp(21): warning C4305: 'argument' : truncation from 'double' to 'float'
+  Box.cpp
+  BlurUtility.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\blurutility.cpp(163): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\blurutility.cpp(164): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+  BasicCloth.cpp
+  BaseModel.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\basemodel.cpp(90): warning C4101: 'linearDesc' : unreferenced local variable
+  Animation.cpp
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\animation.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\blurutility.cpp(238): warning C4715: 'BlurUtility::setupBlurRenderTargets' : not all control paths return a value
+e:\real time rendering\dx11_cs4s764_tutorial_08_shadow_volume (1)\dx11_cs4s764_tutorial_08_shadow_volume\source\box.cpp(155): warning C4715: 'Box::init' : not all control paths return a value
+  DX11Proj.vcxproj -> E:\real time rendering\DX11_CS4S764_Tutorial_08_Shadow_Volume (1)\DX11_CS4S764_Tutorial_08_Shadow_Volume\Debug\DX11Proj.exe
